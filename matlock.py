@@ -21,6 +21,9 @@ def addRuido(punto, maxRuido, metros: bool = False):
     puntor[1] += random.uniform(-maxRuido, maxRuido)
     return puntor
 
+def generate2Points(punto, max):
+    
+    return punto2
 
 
 
